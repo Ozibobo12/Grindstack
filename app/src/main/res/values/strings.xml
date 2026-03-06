@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grindstack</string>
+    <string name="start_url">https://grindstak.free.nf</string>
+    <string name="primary_color">#6366f1</string>
+</resources>
